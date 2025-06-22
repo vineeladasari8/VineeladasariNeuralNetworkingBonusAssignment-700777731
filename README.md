@@ -1,7 +1,7 @@
 # CS5720 - Neural Networks and Deep Learning  
 ### Bonus Assignment – Summer 2025  
-**Student Name:** Swapnil Mergu
-**Student Id:** 700772464
+**Student Name:** Dasari Vineela
+**Student Id:** 700777731
 **University of Central Missouri**  
 **Course:** CS5720 Neural Networks and Deep Learning  
 
